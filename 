@@ -1,0 +1,35 @@
+[33mcommit 8649cd3344650716e35612712f778c0d12b77c2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: argha0787 <theworldisdoomed072@gmail.com>
+Date:   Wed Nov 4 21:28:47 2026 +0530
+
+    second version of data added
+
+[33mcommit a34e599278a0efeb35fe294d4448d65800552a4d[m
+Author: argha0787 <theworldisdoomed072@gmail.com>
+Date:   Wed Nov 4 20:58:05 2026 +0530
+
+    first version of data saved
+
+[33mcommit 55b694aa639533286d6e44c2c0f85ef833dcb768[m
+Author: argha0787 <theworldisdoomed072@gmail.com>
+Date:   Wed Nov 4 20:52:49 2026 +0530
+
+    dvc initiated with data version1
+
+[33mcommit 1e1f9772bf59fd1537cdea650c2b97166462bcc7[m
+Author: argha0787 <theworldisdoomed072@gmail.com>
+Date:   Wed Nov 4 20:46:50 2026 +0530
+
+    stop tracking data
+
+[33mcommit d93ba907fd4ff8540eacf345edae273f685994d1[m
+Author: argha0787 <theworldisdoomed072@gmail.com>
+Date:   Wed Nov 4 19:13:08 2026 +0530
+
+    first commit before DVC
+
+[33mcommit 0aca3bde8f8b24f8e082e7d4be820d5806972645[m
+Author: argha0787 <121326938+argha0787@users.noreply.github.com>
+Date:   Wed Nov 4 17:01:37 2026 +0530
+
+    Initial commit
